@@ -10,7 +10,7 @@
     {
         "id": 2,
         "title": "Portifolio",
-        "text":"This is a Plant Manager App that helps you to remember when to water your plants. Providing many informations that will help you to know your plants needs.\nThis app were part of the Next Level Week event that teached how to develop it through a series of classes",
+        "text":"A website built to tell a little bit about myself and my work in a more visual and interesting way. It was made completely from scratch using JavaScript, HTML, and CSS. All the projects post are drawn from a json file containing just the information about the technologies and a small description ",
         "img": "images/portifolio.png",
         "languages":["html","css","javascript"],
         "link":"https://github.com/giuseppe-bs/giuseppe-bs.github.io"
