@@ -36,3 +36,20 @@ ul{
     display: flex;
     list-style-type: none;
 }
+#projImg{
+    width:300px;
+    margin-right: 20px;
+}
+
+#proj{
+    display: flex;
+    margin-top: 20px;
+
+}
+#projArea{
+    width: 70%;
+    height: auto;
+}
+#center{
+    margin: 5%;
+}

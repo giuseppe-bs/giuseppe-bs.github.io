@@ -1,0 +1,44 @@
+[
+    {
+        "name":"html",
+        "icon":"ci-html5",
+        "color":"#f0529",
+        "text-color":"#000000",
+        "text":"HTML5"
+    },
+    {
+        "name":"css",
+        "icon":"ci-css3",
+        "color":"#66d3fa",
+        "text-color":"#000000",
+        "text":"CSS"
+    },
+    {
+        "name":"react-native",
+        "icon":"ai-react-fill",
+        "color":"#61dbfb",
+        "text-color":"#000000",
+        "text":"React Native"
+    },
+    {
+        "name":"react",
+        "icon":"ai-react-fill",
+        "color":"#61dbfb",
+        "text-color":"#000000",
+        "text":"React"
+    },
+    {
+        "name":"angular",
+        "icon":"ai-angular-fill",
+        "color":"#dd1b16",
+        "text-color":"#000000",
+        "text":"Angular"
+    },
+    {
+        "name":"python",
+        "icon":"ai-python-fill",
+        "color":"#ffd43b",
+        "text-color":"#000000",
+        "text":"Python"
+    }
+]
