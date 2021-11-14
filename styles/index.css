@@ -1,0 +1,38 @@
+:root{
+    --jet:#363537;
+    --react: #61DBFB;
+    --html: #F06529;
+
+}
+
+body{
+    background-color: var(--jet);
+}
+
+header{
+    justify-content: space-between;
+    display: flex;
+}
+
+div{
+    font-family:'Poppins', sans-serif;
+    font-weight: 500;
+    color: white;
+}
+
+#name{
+    font-size: 36px;
+}
+nav{
+    justify-content: space-around;
+    display:flex;
+}
+
+li{
+    text-decoration: none;
+    width: 150px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
