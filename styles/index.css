@@ -10,10 +10,14 @@ a{
 }
 body{
     background-color: var(--jet);
+    margin: 0px;
 }
 header{
+    background-color: #29282A;
     justify-content: space-between;
     display: flex;
+    
+    padding: 10px;
 }
 div{
     font-family:'Poppins', sans-serif;

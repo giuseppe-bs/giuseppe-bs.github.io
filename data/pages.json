@@ -4,14 +4,16 @@
         "title": "Plant Manager",
         "text":"This is a Plant Manager App that helps you to remember when to water your plants. Providing many informations that will help you to know your plants needs.\nThis app were part of the Next Level Week event that teached how to develop it through a series of classes",
         "img": "images/plant.png",
-        "languages":["react-native"]
+        "languages":["react-native"],
+        "link":"https://github.com/giuseppe-bs/PlantManager"
     },
     {
         "id": 2,
         "title": "Portifolio",
         "text":"This is a Plant Manager App that helps you to remember when to water your plants. Providing many informations that will help you to know your plants needs.\nThis app were part of the Next Level Week event that teached how to develop it through a series of classes",
         "img": "images/portifolio.png",
-        "languages":["html","css","javascript"]
+        "languages":["html","css","javascript"],
+        "link":"https://github.com/giuseppe-bs/giuseppe-bs.github.io"
     }
         
 ]

@@ -43,7 +43,10 @@ async function creatProjects(json){
         var divText = document.createElement("div");
         divText.id="projtext"
         var tex = document.createTextNode(element.text);
-        divTitle.appendChild(document.createTextNode(element.title))
+        var link = document.createElement("a")
+        link.href=element.link
+        link.appendChild(document.createTextNode(element.title))
+        divTitle.appendChild(link)
         divinfo.appendChild(divTitle)
         divinfo.appendChild(divlang)
         divText.appendChild(tex)
