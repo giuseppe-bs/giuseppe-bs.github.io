@@ -2,7 +2,7 @@
     {
         "name":"html",
         "icon":"ci-html5",
-        "color":"#f0529",
+        "color":"#f06529",
         "text-color":"#000000",
         "text":"HTML5"
     },
@@ -40,5 +40,12 @@
         "color":"#ffd43b",
         "text-color":"#000000",
         "text":"Python"
+    },
+    {
+        "name":"javascript",
+        "icon":"ai-javascript-fill",
+        "color":"#f0db4f",
+        "text-color":"#000000",
+        "text":"JavaScript"
     }
 ]

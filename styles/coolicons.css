@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'coolicons';
-  src:  url('fonts/coolicons.eot?fs2eqh');
-  src:  url('fonts/coolicons.eot?fs2eqh#iefix') format('embedded-opentype'),
-    url('fonts/coolicons.ttf?fs2eqh') format('truetype'),
-    url('fonts/coolicons.woff?fs2eqh') format('woff'),
-    url('fonts/coolicons.svg?fs2eqh#coolicons') format('svg');
+  src:  url('../fonts/coolicons.eot?fs2eqh');
+  src:  url('../fonts/coolicons.eot?fs2eqh#iefix') format('embedded-opentype'),
+    url('../fonts/coolicons.ttf?fs2eqh') format('truetype'),
+    url('../fonts/coolicons.woff?fs2eqh') format('woff'),
+    url('../fonts/coolicons.svg?fs2eqh#coolicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
