@@ -53,11 +53,12 @@ ul{
 }
 #center{
     margin: 5%;
+    margin-bottom: 0px;
 }
 #cont{
     color: var(--b);
     margin-right: 20px;
-    font-size: 25px;
+    font-size: 30px;
 }
 #lang{
     border-radius: 8px;
@@ -112,6 +113,16 @@ ul{
 #projtext{
     color: #DEE5E5;
 }
+#host{
+    padding: 10px;
+    color: #A3A1A5;
+    font-size: 30px;
+    text-align: center;
+}
+#contato{
+    width: 60;
+    justify-content: space-between;
+}
 @media only screen and (max-width:970px){
     
     #projArea{
@@ -144,6 +155,10 @@ ul{
     
     }
     #imgArea{
+        display: flex;
+        justify-content: center;
+    }
+    #contato{
         display: flex;
         justify-content: center;
     }
