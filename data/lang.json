@@ -47,5 +47,11 @@
         "color":"#f0db4f",
         "text-color":"#000000",
         "text":"JavaScript"
+    },{
+        "name":"pcb",
+        "icon":"ai-thunder",
+        "color":"#2e5384",
+        "text-color":"#000000",
+        "text":"Hardware"
     }
 ]
