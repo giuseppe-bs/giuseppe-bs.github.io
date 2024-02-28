@@ -46,7 +46,7 @@ async function creatProjects(json){
                     div.style.backgroundColor = element.color 
 
                     div.appendChild(icon)                   
-                    div.appendChild(document.createTextNode(element.text)) 
+                    div.appendChild(document.createTextNode(" " + element.text)) 
                 }
             })
             divlang.appendChild(div)
