@@ -76,7 +76,9 @@ ul{
 }
 #avatar{
     width: 250px;
-    height: auto;
+    height: 250px;
+    object-fit: cover;
+    object-position: top;
     border-radius: 50%;
 }
 #aboutMeArea{

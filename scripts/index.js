@@ -1,4 +1,9 @@
-fetch('./data/pages.json').then(response).then(creatProjects)
+console.log("index.js")
+
+fetch('./data/pages.json')
+    .then(response)
+    .then(creatProjects)
+    .catch(error => console.log(error))
 
 function response(response){
     return  response.json();
