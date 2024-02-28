@@ -22,5 +22,19 @@
         "img": "images/Ardupic.png",
         "languages":["pcb"],
         "link":"https://github.com/giuseppe-bs/ArduPIC"
+    },
+    {
+        "id": 4,
+        "title": "CNAB Generator",
+        "text":"A simple CNAB file generator and response reader. It was made to automate some of the company's processes and to help the team to deal with bank files.",
+        "img": "images/cnab.jpg",
+        "languages":["typescript","nodejs","GCP"]
+    },
+    {
+        "id": 5,
+        "title": "Company-Communications",
+        "text":"A complex and dynamic system that allows the company to communicate with its clients and employees. It was made to automate and register all the company's communications. It was developed focusing in robustness and scalability.",
+        "img": "images/communication.jpg",
+        "languages":["typescript","nodejs","GCP","API"]
     }
 ]

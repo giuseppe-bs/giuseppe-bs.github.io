@@ -31,7 +31,7 @@ async function creatProjects(json){
         
         divProj.id = "proj"
         divText.id="projtext"
-        link.href=element.link
+        link.href=element.link || "https://github.com/giuseppe-bs"
         
         element.languages.forEach(lang =>{
             console.log(lang)

@@ -53,5 +53,29 @@
         "color":"#008C4A",
         "text-color":"#000000",
         "text":"Hardware"
+    },{
+        "name":"typescript",
+        "icon":"ai-typescript-fill",
+        "color":"#007acc",
+        "text-color":"#000000",
+        "text":"TypeScript"
+    },{
+        "name":"nodejs",
+        "icon":"ai-node-fill",
+        "color":"#68a063",
+        "text-color":"#000000",
+        "text":"Node.js"
+    },{
+        "name":"GCP",
+        "icon":"ai-google-fill",
+        "color":"#4285f4",
+        "text-color":"#000000",
+        "text":"Google Cloud"
+    },{
+        "name":"API",
+        "icon":"ai-link-out",
+        "color":"#f0db4f",
+        "text-color":"#000000",
+        "text":"3rd Party API"
     }
 ]
